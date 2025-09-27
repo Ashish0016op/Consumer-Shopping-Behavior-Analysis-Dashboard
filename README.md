@@ -8,15 +8,15 @@ Analytics | Visualization | Dashboard
 
 ## Directory Structure
 consumer-shopping-behavior-dashboard/
-## dataset:
+### dataset:
 - consumer_shopping_data.csv
-## reports:
+### reports:
 - Consumer_Shopping_Behavior.pbix
-## screenshots:
+### screenshots:
 - dashboard_overview.png
 - kpi_section.png
 - visuals_analysis.png
-## README.md
+### README.md
 
 ## Video Walkthrough of the project
 Attach a short video walkthrough (1-3 minutes) demonstrating dashboard features, filters, and key insights.
