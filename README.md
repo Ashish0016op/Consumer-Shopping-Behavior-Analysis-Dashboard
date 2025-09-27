@@ -7,16 +7,19 @@ This project is a Power BI dashboard that visualizes consumer shopping behavior,
 Analytics | Visualization | Dashboard
 
 ## Directory Structure
+
+```
 consumer-shopping-behavior-dashboard/
-### dataset:
-- consumer_shopping_data.csv
-### reports:
-- Consumer_Shopping_Behavior.pbix
-### screenshots:
-- dashboard_overview.png
-- kpi_section.png
-- visuals_analysis.png
-### README.md
+├─ dataset/
+│  ├─ consumer_shopping_data.csv      
+├─ reports/
+│  ├─ Consumer_Shopping_Behavior.pbix   
+├─ screenshots/
+│  ├─ dashboard_overview.png             
+│  ├─ kpi_section.png                   
+│  ├─ visuals_analysis.png              
+├─ README.md                          
+```
 
 ## Video Walkthrough of the project
 Attach a short video walkthrough (1-3 minutes) demonstrating dashboard features, filters, and key insights.
