@@ -11,7 +11,7 @@ Analytics | Visualization | Dashboard
 ```
 consumer-shopping-behavior-dashboard/
 ├─ dataset/
-│  ├─ consumer_shopping_data.csv      
+│  ├─ Consumer_Shopping_Behavior_dataset.csv      
 ├─ reports/
 │  ├─ Consumer_Shopping_Behavior.pbix   
 ├─ screenshots/
